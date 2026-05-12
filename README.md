@@ -69,7 +69,7 @@ Passionate about building decentralized systems, real-time media pipelines and A
 
 <div align="center">
 
-![Snake animation](https://github.com/Arya-126/Arya-126/blob/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/Arya-126/Arya-126/output/github-contribution-grid-snake.svg)
 
 </div>
 
