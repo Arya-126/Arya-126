@@ -73,7 +73,7 @@ Passionate about building decentralized systems, real-time media pipelines and A
 
 </div>
 
-> ⚙️ To enable the snake, add a GitHub Action in `.github/workflows/snake.yml`
+
 
 ---
 
