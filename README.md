@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&pause=1000&color=39D353&center=true&vCenter=true&width=700&lines=Information%20Science%20Engineer;Android%20Developer;AI%2FML%20Enthusiast;Open%20Source%20Contributor)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&pause=1000&color=39D353&center=true&vCenter=true&width=700&lines=Information%20Science%20Engineer;Android%20Developer;AI%2FML%20Enthusiast)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Arya-126&color=39d353&style=flat-square&label=Profile+Views)
 
